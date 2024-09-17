@@ -52,11 +52,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps,ai,pr,blender" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,vite,react,redux,next,nodejs,express,graphql,electron" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,docker,cloudflare,git,github,bash,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=aiscript,cmake,codepen,css,debian,discord,docker,electron,elixir,gatsby,github,gitlab,go,ipfs,java,js,kali,linux,mysql,mongodb,nix,nodejs,npm,php,py,qt,react,redhat,redis,remix,rust,solidity,tailwind,ts,ubuntu,unity,vercel,vim,vscode,vue,webpack,yarn" />
+
   </a>
 </div>
 
