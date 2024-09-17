@@ -14,9 +14,9 @@
     <td width="50%">
         <a href="https://github.com/freenetcoder">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=freenetcoder&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=freenetcoder&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=freenetcoder&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
@@ -29,24 +29,6 @@
           </picture>
         </a>
     </td>
-  </tr>
-</table>
-
-<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
-
-<table width="100%" align="center">
-  </tr>
-  <tr>
-    <td width="100%"  align="center">
-        <a href="https://github.com/freenetcoder">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>
-
   </tr>
 </table>
 
