@@ -28,7 +28,7 @@
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p>
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">DEXSCREENER LINK</a></h4>
-<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">MOONSHOT LINK</a></h4>
+<h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
 
 <hr>
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
