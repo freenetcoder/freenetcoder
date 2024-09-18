@@ -16,11 +16,25 @@
     </td>
   </tr>
 </table>
-<hr>
+
 
 <p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
 
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+
+<h3 align="center">Ok, this is <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕</h3>
+<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/banner.jpg"></a></h4>
+<p align="center">I've created a token from dexscreener service to show you what a real developer can do in background with just a token from moonshot.. I'm a fan of Kommissar REX TV show, so please respect the '90s. This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs. And yes, I don't have X account or TG group for you for this awesome dog.</p>
+
+<p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p>
+
+<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">DEXSCREENER LINK</a></h4>
+<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">MOONSHOT LINK</a></h4>
+
+<hr>
+<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
+
+
+<h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
 
 <table width="100%" align="center">
   <tr>
