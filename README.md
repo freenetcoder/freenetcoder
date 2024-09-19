@@ -29,7 +29,7 @@
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
 <hr>
-<p align="center"><b>Sept. 18th Upd:</b> 🔥We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, or if you want to see REX on CEX, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol, it's not serious. I won't introduce the project to my old partners until I see a normal MC. The choice is yours: up or dowm, buy or sell..</p>
+<p align="center"><b>Sept. 18th 💥UPDATE💥</b> We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, or if you want to see REX on CEX, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol, it's not serious. I won't introduce the project to my old partners until I see a normal MC. The choice is yours: up or dowm, buy or sell..</p>
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
 
@@ -37,15 +37,15 @@
 <h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
 <h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4><br/>
 
-<h4 align="center">🔥100% LP Tokens Burned <a href="https://solscan.io/token/FnNM2ZBf72dVtW85YpW9Aqh8hepbo9PBN852UWG9AiKJ"> LINK</a></h4>
-<h4 align="center">🔥2% REX supply bought/burned <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
-<h4 align="center">🔥1% REX supply bought/burnedt <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
-<h4 align="center">🔥0.8% REX supply bought/burnedt <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
+<h4 align="center">100% LP Tokens 🔥Burned <a href="https://solscan.io/token/FnNM2ZBf72dVtW85YpW9Aqh8hepbo9PBN852UWG9AiKJ"> LINK</a></h4>
+<h4 align="center">2% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
+<h4 align="center">1% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
+<h4 align="center">0.8% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
 <br/>
 <p align="center"> <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
 <hr>
-<p align="center"> <b>Sept. 19th Upd:</b> Looks like all moonboys presalers out, it's time to enter for real OG's😉</p>
-<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK 💥UPDATE💥</a></h4>
+<p align="center"> <b>Sept. 19th 💥UPDATE💥</b> Looks like all moonboys presalers out, it's time to enter for real OG's😉</p>
+<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK OLD THREAD UPDATED</a></h4>
 <h4 align="center"><a href="https://moontok.io/coins/kommissar-rex-2">MOONTOK</a></h4>
 
 <hr>
