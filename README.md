@@ -35,6 +35,7 @@
 <h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
 <h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4>
 
+<h4 align="center">🔥100% LP Tokens Burned🔥 <a href="https://solscan.io/token/FnNM2ZBf72dVtW85YpW9Aqh8hepbo9PBN852UWG9AiKJ"> LINK</a></h4>
 <h4 align="center">🔥2% supply burned🔥 <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
 <h4 align="center">🔥1% supply burnedt🔥 <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
 <h4 align="center">🔥0.8% supply burnedt🔥 <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
