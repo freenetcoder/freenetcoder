@@ -24,7 +24,7 @@
 
 <h3 align="center">Ok, this is <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕</h3>
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/banner.jpg"></a></h4>
-<p align="center">I've created fan token to show you what a real developer can do in background with just a token from moonshot.. This token is a part of something big, follow my git. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
+<p align="center">I've created fan token to show you what a real developer can do in background with just a token from moonshot.. This token is a part of something big, follow my github. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
 
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
