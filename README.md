@@ -27,6 +27,8 @@
 
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p>
 
+<p align="center">UPD* It's fun to watch Jeets fight but people panic selling, why? You don't understand me and project. I've bought 8.8% of supply and burned 3,8% already. I'm not selling anyway. If you want CEX, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I CAN DO IT, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my old partners until I see a normal MC. The choice is yours. <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
+
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">DEXSCREENER LINK</a></h4>
 <h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
 <h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4>
@@ -34,8 +36,6 @@
 <h4 align="center">🔥2% supply burned🔥 <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
 <h4 align="center">🔥1% supply burnedt🔥 <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
 <h4 align="center">🔥0.8% supply burnedt🔥 <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
-
-<p align="center">UPD* It's fun to watch Jeets fight and people sell. You don't understand me and project. Its not pump/dump shit. I've bought 8.8% of supply and burned 3,8% already. I'm not selling anyway. If you want CEX, if you want to enter the Chinese market or be at the top of the CMC, I CAN DO IT EASY, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my partners until I see a normal MC. The choice is yours. <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
 
 
 <hr>
