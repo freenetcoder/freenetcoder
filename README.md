@@ -29,7 +29,7 @@
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
 <hr>
-<p align="center">🔥🚀 We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, if you want to see CEX's, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my old partners until I see a normal MC. The choice is yours. <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
+<p align="center">🔥🚀 We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, if you want to see CEX's, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my old partners until I see a normal MC. The choice is yours.</p>
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
 
@@ -41,8 +41,8 @@
 <h4 align="center">🔥2% REX supply bought/burned🔥 <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
 <h4 align="center">🔥1% REX supply bought/burnedt🔥 <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
 <h4 align="center">🔥0.8% REX supply bought/burnedt🔥 <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
-
-
+<br/>
+<p align="center"> <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
 <hr>
 
 
