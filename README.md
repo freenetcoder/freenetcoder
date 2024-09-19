@@ -22,7 +22,7 @@
 <p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
 
 
-<h3 align="center">Ok, this is <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕<br/></h3>
+<h3 align="center">Meet Legend! <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕<br/></h3>
 <p align="center"><code>scroll down 👇 for latest updates</code></p>
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/banner.jpg"></a></h4>
 <p align="center">I've created fan token to show you what Developer can do in background with just a token from moonshot.. This token is a part of something big, follow my github. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
