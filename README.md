@@ -42,7 +42,7 @@
 <h4 align="center">1% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
 <h4 align="center">0.8% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
 <br/>
-<p align="center"> <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
+<p align="center"> Kommissar REX will be fighting to the end, thats what i call a good friend!</p>
 <hr>
 <p align="center"> <b>Sept. 19th 💥UPDATE💥</b> Looks like all moonboys presalers out, it's time to enter for real OG's😉</p>
 <h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK OLD THREAD UPDATED</a></h4>
