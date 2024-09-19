@@ -30,7 +30,7 @@
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
 <hr>
-<p align="center"><b>Sept. 18th 💥UPDATE💥</b> We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT other people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, or if you want to see REX on CEX, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can, but we need at least 300k MC floor. 8k MC lol, it's not serious. I won't introduce the project to my old partners until I see a normal MC. The choice is yours: up or down, buy or sell..</p>
+<p align="center"><b>Sept. 18th 💥UPDATE💥</b> We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT other people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. For those who want to enter the Chinese market and get to the top of the CMC, Gecko, etc.. Who want to see what I'm cooking and what the cex I prepared first, - guys 8k MC lol, it's not serious. Lets push it minimally to 200k-300k, so I can introduce the project to my old partners this way. The choice is yours: up or down, buy or sell..</p>
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
 
