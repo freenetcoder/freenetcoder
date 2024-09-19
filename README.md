@@ -35,14 +35,14 @@
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">DEXSCREENER LINK</a></h4>
 <h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
-<h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4>
+<h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4><br/>
 
 <h4 align="center">🔥100% LP Tokens Burned <a href="https://solscan.io/token/FnNM2ZBf72dVtW85YpW9Aqh8hepbo9PBN852UWG9AiKJ"> LINK</a></h4>
 <h4 align="center">🔥2% REX supply bought/burned <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
 <h4 align="center">🔥1% REX supply bought/burnedt <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
 <h4 align="center">🔥0.8% REX supply bought/burnedt <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
 <br/>
-<p align="center"> <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p><br/>
+<p align="center"> <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
 <hr>
 <p align="center"> <b>Sept. 19th Upd:</b> Looks like all moonboys presalers out, it's time to enter for real OG's😉</p>
 <h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK 💥UPDATE💥</a></h4>
