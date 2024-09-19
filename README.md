@@ -24,12 +24,12 @@
 
 <h3 align="center">Ok, this is <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕</h3>
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/banner.jpg"></a></h4>
-<p align="center">I've created fan token to show you what a real developer can do in background with just a token from moonshot.. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
+<p align="center">I've created fan token to show you what a real developer can do in background with just a token from moonshot.. This token is a part of something big, follow my git. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
 
 <p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
 <hr>
-<p align="center">🔥🚀 We broke Moonshot bonding curve (fair launch) in just 3 hours. It's fun to watch Jeets fight but people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want CEX, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my old partners until I see a normal MC. The choice is yours. <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
+<p align="center">🔥🚀 We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. If you want to see what Im cooking, if you want to see CEX's, if you want to enter the Chinese market or be at the top of the cmc, gecko, etc.. I can do it easy, but we need at least 300k MC floor. I can't do anything with 8k MC lol. I won't introduce the project to my old partners until I see a normal MC. The choice is yours. <b>Kommissar REX will be fighting to the end, thats what i call a good friend!</b></p>
 
 <h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
 
