@@ -22,34 +22,19 @@
 <p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
 
 
-<h3 align="center">Meet Legend! <a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">Kommissar REX</a>🐕<br/></h3>
-<p align="center"><code>scroll down 👇 for latest updates</code></p>
-<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/banner.jpg"></a></h4>
-<p align="center">I've created fan token to show you what Developer can do in background with just a token from moonshot.. This token is a part of something big, follow my github. I'm a fan of Kommissar REX TV show, so please respect the '90s. <b>This dog deserves more respect than shitcoins with pictures of your asses and Japanese dogs</b>. LP burnt, no taxes, audit done, and yes, I don't have X account or TG group for you for this awesome dog.</p>
+<h3 align="center">Legend is Back! <a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">GRIMM on Solana</a><br/></h3>
 
-<p align="center"><code align="center">SOLANA SCA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp</code></p><p align="center">
 
-<hr>
-<p align="center"><b>Sept. 18th 💥UPDATE💥</b> We broke Moonshot bonding curve (fair launch) in just 3 hours, congrats! It's fun to watch Jeets fight BUT other people panic selling, why? Looks like not researching me, my background, and my crypto connections. Ok. I've bought 8.8% of REX supply and burned 3,8% already. For those who want to enter the Chinese market and get to the top of the CMC, Gecko, etc.. Who want to see what I'm cooking and what the cex I prepared first, - guys 8k MC lol, it's not serious. Lets push it minimally to 200k-300k, so I can introduce the project to my old partners this way. The choice is yours: up or down, buy or sell..</p>
-
-<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png"></a></h4>
-
-<h4 align="center"><a href="https://dexscreener.com/solana/bwj3jekxthzx7lsxzulspiwyhn2kntu9y29juzbpepdp">DEXSCREENER LINK</a></h4>
-<h4 align="center"><a href="https://www.dextools.io/app/en/solana/pair-explorer/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">DEXTOOLS LINK</a></h4>
-<h4 align="center"><a href="https://app.meteora.ag/pools/FpG2PFBYx68KTE13wv4v967XeAuCkdsmvQn6ExEnfVRp">METEORA DEX (BUY/SELL)</a></h4><br/>
-
-<h4 align="center">100% LP Tokens 🔥Burned <a href="https://solscan.io/token/FnNM2ZBf72dVtW85YpW9Aqh8hepbo9PBN852UWG9AiKJ"> LINK</a></h4>
-<h4 align="center">2% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/5h261G1B4tLUwbdsP65ryfjnMnq4s9URj2GSzFtkB1zWWdaLFt8mFTfmg6z83zHrNVQAEijV58vBjhhmjoLKpwM9"> LINK</a></h4>
-<h4 align="center">1% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/4PrKdB6hGN7jm3ybc9N3pQKkx1p8oLUgWRpChNXF6PzxiYw6AaaEzv4ywG22XFfBPCot4LdQ2iLHyf16PhjgVFY2"> LINK</a></h4>
-<h4 align="center">0.8% REX supply 🔥Bought/Burned <a href="https://solscan.io/tx/2avDWFaiT9fShyZT3tuCit11oG6e6hA63g2rtXSC3YzxsDo3rUMpVdPDzvA394EMMx4ULpJhzL9G99vtWAzpsaUj"> LINK</a></h4>
+<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/grimmlogo.jpg"></a></h4>
 <br/>
-<p align="center"> Kommissar REX will be fighting to the end, thats what i call a good friend!</p>
-<hr>
-<p align="center"> <b>Sept. 19th 💥UPDATE💥</b> Looks like all moonboys presalers out, it's time to enter for real OG's😉</p>
-<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK OLD THREAD UPDATED</a></h4>
-<h4 align="center"><a href="https://moontok.io/coins/kommissar-rex-2">MOONTOK</a></h4>
+<p align="center"><code align="center">SOLANA SCA: DuU8nwfTN4odbN6ggm1rrQmHu2CqxRHZgwqVH6QKGRdt</code></p><p align="center">
+ 
+<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">DEXSCREENER LINK</a></h4>
+<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">MOONSHOT LINK</a></h4>
+<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK OG THREAD</a></h4>
 
-<hr>
+
+
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
 
 <table width="100%" align="center">
