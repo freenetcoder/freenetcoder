@@ -31,12 +31,12 @@
 <br/>
 
  
-<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">DEXSCREENER LINK</a></h4>
-<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">MOONSHOT LINK</a></h4>
-<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">BITCOINTALK OG THREAD</a></h4>
+<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">🔥DEXSCREENER LINK</a></h4>
+<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">🚀MOONSHOT LINK</a></h4>
+<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">❤️ BITCOINTALK OG THREAD</a></h4>
 
 
-
+<br/>
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
 
 <table width="100%" align="center">
