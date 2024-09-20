@@ -11,7 +11,7 @@
 CA: GmpDqsxJi7tb7wpDnGcZwdpYVxawRphXHfV8KoWwa3fD 👉 
 <a href="https://dexscreener.com/solana/gzg6lqatppqza8jm3eswb1rwk814owusaiqpnufzxbzx">dex link</a></p></td></tr></table>
   
-  <h3>Some of my past rockin' projects (still linked to me on cmc):</h3>
+  <h3>Some of my past rockin' projects | Still linked to me on cmc:</h3>
 <table width="100%" align="center">
   <tr>
     <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a>
