@@ -24,7 +24,7 @@ CA: GmpDqsxJi7tb7wpDnGcZwdpYVxawRphXHfV8KoWwa3fD 👉
 </table>
 
 
-<p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
+<p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way? Ok.</blockquote></p>
 
 
 
