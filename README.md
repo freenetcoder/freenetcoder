@@ -23,7 +23,7 @@
 
 
 <h3 align="center">Legend is Back! <a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">GRIMM on Solana</a><br/></h3>
-<p align="center">We see existing conditions and systems of control, not governed by logic or reason but by greed, subversion, bureaucracy, censorship, and inefficiency. We have a strong distrust for inherently flawed and corrupt systems. Our value transparency, privacy, and real decentralization</p>
+<p align="center">We see existing conditions and systems of control, not governed by logic or reason but by greed, subversion, bureaucracy, censorship, and inefficiency. We have a strong distrust for inherently flawed and corrupt systems. Our value transparency, privacy, and real decentralization. GRIMM on Solana is a fan token. Part of history. With respect to OG miners and Bitcoin maximalists</p>
 
 <p align="center"><code align="center">SOLANA SCA: DuU8nwfTN4odbN6ggm1rrQmHu2CqxRHZgwqVH6QKGRdt</code></p><p align="center">
 
