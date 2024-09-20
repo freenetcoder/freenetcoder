@@ -9,7 +9,7 @@
 <img src="https://i.ibb.co/vJZqPsf/pngwing-com-3.png" width="100px"></td><td>
 <p>RIP ICQ: Remembering a classic messaging app that was way ahead of its time<br/>
 CA: GmpDqsxJi7tb7wpDnGcZwdpYVxawRphXHfV8KoWwa3fD 👉 
-<a href="https://dexscreener.com/solana/gzg6lqatppqza8jm3eswb1rwk814owusaiqpnufzxbzx">link</a></p></td></tr></table>
+<a href="https://dexscreener.com/solana/gzg6lqatppqza8jm3eswb1rwk814owusaiqpnufzxbzx">dex link</a></p></td></tr></table>
   
   <h3>Some of my past rockin' projects:</h3>
 <table width="100%" align="center">
