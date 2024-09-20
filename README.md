@@ -22,18 +22,6 @@
 <p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
 
 
-<h3 align="center">Legend is Back! <a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">GRIMM on Solana</a><br/></h3>
-<p align="center">We see existing conditions and systems of control as governed not by logic or reason, but by greed, subversion, bureaucracy, censorship, and inefficiency. We have a strong distrust of inherently flawed and corrupt systems. We value transparency, privacy, and true decentralization. GRIMM on Solana is a fan token. Part of history. Made with respect to OG miners and bitcoin maximalists.</p>
-
-<p align="center"><code align="center">SOLANA SCA: DuU8nwfTN4odbN6ggm1rrQmHu2CqxRHZgwqVH6QKGRdt</code></p><p align="center">
-
-<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/grimmlogo.jpg"></a></h4>
-<br/>
-
- 
-<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">🔥DEXSCREENER LINK</a></h4>
-<h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">🚀MOONSHOT LINK</a></h4>
-<h4 align="center"><a href="https://bitcointalk.org/index.php?topic=5172476">❤️ BITCOINTALK OG THREAD</a></h4>
 
 
 <br/>
