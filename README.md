@@ -5,9 +5,10 @@
 <h2 align="left" style="vertical-align: middle;">
  <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> <sup><sub>7D STATS: </sub></sup> <a href="https://visitcount.itsvg.in/analytics/freenetcoder"><img height="20" src="https://visitcount.itsvg.in/api?id=freenetcoder&icon=0&color=0" alt="7d stats"/></a>
 </h2>
-
+<table><tr><td>
+<img src="https://i.ibb.co/vJZqPsf/pngwing-com-3.png" width="100px"></td><td>
 <p>RIP ICQ: Remembering a classic messaging app that was way ahead of its time<br/>
-CA: GmpDqsxJi7tb7wpDnGcZwdpYVxawRphXHfV8KoWwa3fD</p>
+CA: GmpDqsxJi7tb7wpDnGcZwdpYVxawRphXHfV8KoWwa3fD</p></td></tr></table>
   
   <h3>Some of my past rockin' projects:</h3>
 <table width="100%" align="center">
