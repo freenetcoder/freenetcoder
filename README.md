@@ -23,11 +23,13 @@
 
 
 <h3 align="center">Legend is Back! <a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">GRIMM on Solana</a><br/></h3>
+<p align="center">We see existing conditions and systems of control, not governed by logic or reason but by greed, subversion, bureaucracy, censorship, and inefficiency. We have a strong distrust for inherently flawed and corrupt systems. Our value transparency, privacy, and real decentralization</p>
 
+<p align="center"><code align="center">SOLANA SCA: DuU8nwfTN4odbN6ggm1rrQmHu2CqxRHZgwqVH6QKGRdt</code></p><p align="center">
 
 <h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/grimmlogo.jpg"></a></h4>
 <br/>
-<p align="center"><code align="center">SOLANA SCA: DuU8nwfTN4odbN6ggm1rrQmHu2CqxRHZgwqVH6QKGRdt</code></p><p align="center">
+
  
 <h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">DEXSCREENER LINK</a></h4>
 <h4 align="center"><a href="https://dexscreener.com/solana/duu8nwftn4odbn6ggm1rrqmhu2cqxrhzgwqvh6qkgrdt">MOONSHOT LINK</a></h4>
