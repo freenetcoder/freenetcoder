@@ -8,8 +8,8 @@
 <table><tr><td>
 <img src="https://i.ibb.co/vJZqPsf/pngwing-com-3.png" width="100px"></td><td>
 <p>RIP ICQ: Remembering a classic messaging app that was way ahead of its time<br/>
-CA:  👉 
-<a href="">dex link</a></p></td></tr></table>
+CA: 6KcVVqjcQusiCdDDfE1WTWTenhGqzJcVEedsvsYZQu8E 👉 
+<a href="https://dexscreener.com/solana/6kcvvqjcqusicdddfe1wtwtenhgqzjcveedsvsyzqu8e">dex link</a></p></td></tr></table>
   
   <h3>Some of my past rockin' projects | Still linked to me on cmc:</h3>
 <table width="100%" align="center">
