@@ -5,11 +5,6 @@
 <h2 align="left" style="vertical-align: middle;">
  <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> <sup><sub>7D STATS: </sub></sup> <a href="https://visitcount.itsvg.in/analytics/freenetcoder"><img height="20" src="https://visitcount.itsvg.in/api?id=freenetcoder&icon=0&color=0" alt="7d stats"/></a>
 </h2>
-<table><tr><td>
-<img src="https://i.ibb.co/8dbNJ60/200w.gif" width="100px"></td><td>
-<p>FREEDEV is an utility token for my Solana projects<br/>
-CA: pkaez6eibAbFuPfEtTD1N8nH8FYVQtuzDoXnEgsJk62 👉 
-<a href="https://dexscreener.com/solana/pkaez6eibabfupfettd1n8nh8fyvqtuzdoxnegsjk62">link</a></p></td></tr></table>
   
   <h3>Some of my past rockin' projects | Still linked to me on cmc:</h3>
 <table width="100%" align="center">
