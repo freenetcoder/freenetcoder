@@ -7,7 +7,7 @@
 </h2>
 <table><tr><td>
 <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="100px"></td><td>
-<p>FREEDEV is an utility token for my projects<br/>
+<p>FREEDEV is an utility token for my Solana projects<br/>
 CA: pkaez6eibAbFuPfEtTD1N8nH8FYVQtuzDoXnEgsJk62 👉 
 <a href="https://dexscreener.com/solana/pkaez6eibabfupfettd1n8nh8fyvqtuzdoxnegsjk62">link</a></p></td></tr></table>
   
