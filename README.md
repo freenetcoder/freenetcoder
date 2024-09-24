@@ -21,7 +21,7 @@
 </table>
 
 <table><tr border="0px"><td> <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="160px"> </td><td>
-<p><blockquote>Today, you call someone "Dev" who makes an ERC20 token with the wrong ticker and a picture of his ass. The token can't be deployed manually because the author doesn't have any programming skills. He just clicks a few buttons on websites like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You call this author "Based Dev" if he paid dexscreener banner or cmc listing! You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p></td></tr></table>
+<p><blockquote>Today you are calling someone "Dev" who creates an ERC20 token with the wrong ticker and a picture of his ass. The token can't be deployed manually because the author has no programming skills. He just clicks a few buttons on a website like Moonshot. Then you setup a Telegram channel with bots where millions of scam promoters will come to get this "dev" to pay them for something nobody needs. You are calling this author "Based Dev" if he paid for dexscreener banner or cmc listing! You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p></td></tr></table>
 
 
 
