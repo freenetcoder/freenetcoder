@@ -20,14 +20,15 @@
   </tr>
 </table>
 
-<table><tr border="0px"><td> <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="160px"> </td><td>
-<p><blockquote>Today you are calling someone "Dev" who creates an ERC20 token with the wrong ticker and a picture of his ass. The token can't be deployed manually because the author has no programming skills. He just clicks a few buttons on a website like Moonshot. Then you setup a Telegram channel with bots where millions of scam promoters will come to get this "dev" to pay them for something nobody needs. You are calling this author "Based Dev" if he paid for dexscreener banner or cmc listing! You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p></td></tr></table>
+<p><blockquote>Today you are calling someone "Dev" who creates an ERC20 token with the wrong ticker and a picture of his ass. The token can't be deployed manually because the author has no programming skills. He just clicks a few buttons on a website like Moonshot. Then you setup a Telegram channel with bots where millions of scam promoters will come to get this "dev" to pay them for something nobody needs. You are calling this author "Based Dev" if he paid for dexscreener banner or cmc listing! You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p>
 
 
 
 
 <br/>
-<h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
+<h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+<br/>
+<img src="https://i.ibb.co/8dbNJ60/200w.gif" width="150px"></h3>
 
 <table width="100%" align="center">
   <tr>
