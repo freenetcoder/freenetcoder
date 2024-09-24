@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="Programming.gif">
+<img align="right" width="150px" src="https://i.ibb.co/8dbNJ60/200w.gif">
 
 # Cypherpunks write code
 <h2 align="left" style="vertical-align: middle;">
