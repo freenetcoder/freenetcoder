@@ -1,12 +1,11 @@
 <img align="right" width="30%" src="Programming.gif">
 
-# IM BACK! LETS ROCK🔥
-# “格林 "开发人员回来了
+# Cypherpunks write code
 <h2 align="left" style="vertical-align: middle;">
  <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> <sup><sub>7D STATS: </sub></sup> <a href="https://visitcount.itsvg.in/analytics/freenetcoder"><img height="20" src="https://visitcount.itsvg.in/api?id=freenetcoder&icon=0&color=0" alt="7d stats"/></a>
 </h2>
   
-  <h3>Some of my past rockin' projects | Still linked to me on cmc:</h3>
+  <h3>Some of my past blockchain projects</h3>
 <table width="100%" align="center">
   <tr>
     <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a>
@@ -19,7 +18,7 @@
 </table>
 
 
-<p><blockquote>I looked at the DeFi/Tokens market and was shocked. Today, you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way? Ok.</blockquote></p>
+<p><blockquote>Today, you call someone "Dev" who makes a template ERC20 token with the wrong ticker and a picture of his ass. This token even can't be deployed manually because the author doesn't have any programming skills. He only can click a few buttons at website like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come in to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" if he paid dexscreener banner or cmc listing! Are you f*c*ing serious? You've abandoned good projects with strong tech background and real developers for this shit? Do you really see the crypto this way?</blockquote></p>
 
 
 
