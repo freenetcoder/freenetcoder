@@ -2,7 +2,11 @@
 # Cypherpunks write code
 <h2 align="left" style="vertical-align: middle;">
  <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> <sup><sub>7D STATS: </sub></sup> <a href="https://visitcount.itsvg.in/analytics/freenetcoder"><img height="20" src="https://visitcount.itsvg.in/api?id=freenetcoder&icon=0&color=0" alt="7d stats"/></a>
+
 </h2>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/freenetcoder)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Freenetcoder)](https://x.com/freenetcoder)
   
   <h3>Some of my past blockchain projects</h3>
 <table width="100%" align="center" border="0px">
