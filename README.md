@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/freenetcoder)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Freenetcoder)](https://x.com/freenetcoder)
   
-  <h3>Some of my past cmc listed projects</h3>
+  <h3>Some of my previous CMC-listed projects</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a>
