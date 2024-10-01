@@ -5,8 +5,6 @@
 
 </h2>
 
-<p><blockquote>Today you are calling someone "Dev" who creates an ERC20 token with the wrong ticker and a picture of his ass. The token can't be deployed manually because the author has no programming skills. He just clicks a few buttons on a website like Moonshot. Then you setup a Telegram channel with bots where millions of scam promoters will come to get this "dev" to pay them for something nobody needs. You are calling this author "Based Dev" if he paid for dexscreener banner or cmc listing! You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p>
-
   
   <h3>Some of my previous CMC-listed projects</h3>
 <table width="100%" align="center" border="0px">
@@ -21,6 +19,8 @@
 </table>
 
 
+<p align="center"><blockquote>Im a big fan of Kommissar REX TV show. My support to first meme cop dog $REX on Solana 🩵💙💜 <br/>CA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp
+<img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png" width="40px"></blockquote></p>
 
 <br/>
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
