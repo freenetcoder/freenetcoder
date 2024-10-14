@@ -18,10 +18,6 @@
   </tr>
 </table>
 
-
-<p align="center"><blockquote>Im a big fan of Kommissar REX TV show. My support to first meme cop dog $REX on Solana 🩵💙💜 <br/>CA: Bwj3JeKXtHzX7LsXZULsPiWyHN2KNtU9Y29JuZBpePdp
-<img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex/200logo.png" width="40px"></blockquote></p>
-
 <br/>
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
 
