@@ -18,7 +18,10 @@
   </tr>
 </table>
 
-  <h3>My memes that broke moonshot bonding curve in a few hours. Created for fun, NFA</h3>
+ <h3>Do you think that meme tokens are what crypto is all about?</h3>
+<p><blockquote>Today you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token can't even be deployed manually because the author has no programming skills. All he can do is click a few buttons on a site like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" when he paid dexscreener banner or cmc listing! Are you serious? You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p>
+
+  <h3>My memes that broke moonshot bonding curve in a few hours. Social experiments:</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
@@ -28,9 +31,6 @@
 
   </tr>
 </table>
-
- <h3>Do you think that meme tokens are what crypto is all about?</h3>
-<p><blockquote>Today you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token can't even be deployed manually because the author has no programming skills. All he can do is click a few buttons on a site like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" when he paid dexscreener banner or cmc listing! Are you serious? You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p>
 
 <br/>
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
