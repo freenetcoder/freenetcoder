@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-  <h3>Here I'm combining memes with AI to maximize earnings from official Solana DeFi programs:</h3>
+  <h3>Combining memes with AI to maximize earnings from Solana DeFi programs:</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai9.png"></a>
