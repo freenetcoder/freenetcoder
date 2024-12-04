@@ -1,5 +1,5 @@
 
-# In code we trust <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="30px">
+# In code we trust <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="30px">&nbsp;<img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/skai9logo2.png" width="30px">
 <h2 align="left" style="vertical-align: middle;">
  <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> <sup><sub>7D STATS: </sub></sup> <a href="https://visitcount.itsvg.in/analytics/freenetcoder"><img height="20" src="https://visitcount.itsvg.in/api?id=freenetcoder&icon=0&color=0" alt="7d stats"/></a>
 
@@ -18,15 +18,21 @@
   </tr>
 </table>
 
- <h3>Do you think that meme tokens are what crypto is all about?</h3>
-<p><blockquote>Today you call someone "Dev" who makes a template token with the wrong ticker and a picture of his ass. This token can't even be deployed manually because the author has no programming skills. All he can do is click a few buttons on a site like Moonshot. Then you create a Telegram channel with bots where millions of scam promoters come to get this "Dev" to pay them for something nobody needs. You called this author "Based Dev" when he paid dexscreener banner or cmc listing! Are you serious? You've abandoned good projects with strong technical backgrounds and real developers for this shit? Is that really how you see crypto?</blockquote></p>
-
   <h3>My social experiments with memes on Solana:</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
     </td>
      <td width="30%"><a href="https://mevx.io/solana/5GSx3kqBGZ1qgmT8RTWBatohk2uwjN9x8eoLYEUkFPQr" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex.png"></a>
+    </td>
+
+  </tr>
+</table>
+
+  <h3>Here I'm combining memes with AI to maximize earnings from official Solana DeFi programs:</h3>
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai9.png"></a>
     </td>
 
   </tr>
