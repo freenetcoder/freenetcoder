@@ -18,12 +18,25 @@
   </tr>
 </table>
 
-  <h3>My social experiments with Moonshotlaunchpad</h3>
+  <h3>My social experiments with Moonshot launchpad</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
     </td>
      <td width="30%"><a href="https://mevx.io/solana/5GSx3kqBGZ1qgmT8RTWBatohk2uwjN9x8eoLYEUkFPQr" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex.png"></a>
+    </td>
+
+  </tr>
+</table>
+
+  <h3>My social experiments with Pumpfun</h3>
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new1.png">
+    </td>
+     <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new2.png">
+    </td>
+        <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new3.png">
     </td>
 
   </tr>
