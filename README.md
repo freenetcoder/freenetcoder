@@ -18,17 +18,6 @@
   </tr>
 </table>
 
-  <h3>My social experiments with Moonshot launchpad</h3>
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="30%"><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
-    </td>
-     <td width="30%"><a href="https://mevx.io/solana/5GSx3kqBGZ1qgmT8RTWBatohk2uwjN9x8eoLYEUkFPQr" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex.png"></a>
-    </td>
-
-  </tr>
-</table>
-
   <h3>My social experiments with Pumpfun</h3>
 <table width="100%" align="center" border="0px">
   <tr>
@@ -42,13 +31,96 @@
   </tr>
 </table>
 
-  <h3>Combining memes with AI to maximize earnings from Solana DeFi programs:</h3>
+  <h3>My social experiments with Moonshot launchpad</h3>
 <table width="100%" align="center" border="0px">
+  <tr>
+    <td width="30%"><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
+    </td>
+     <td width="30%"><a href="https://mevx.io/solana/5GSx3kqBGZ1qgmT8RTWBatohk2uwjN9x8eoLYEUkFPQr" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/rex.png"></a>
+    </td>
+
+  </tr>
+</table>
+<br/>
+  <h3>Combining memes with AI to maximize earnings from Solana DeFi programs:</h3>
+  <table width="100%" align="center" border="0px">
   <tr>
     <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai9.png"></a>
     </td>
 
   </tr>
+<br/><br/>
+  <tr>
+    <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai93.png"></a>
+    </td>
+
+  </tr>
+</table>
+<br/>
+  <h3>Hacking pumpfun bots:</h3>
+  
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="50%"><a href="https://www.catch22club.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/hack1.png"></a>
+    </td>
+
+  </tr>
+
+</table>
+<br/>
+  <h3>An interactive science fiction meme-story. Gameplay is made up of a mix of tech and code-based challenges.:</h3>
+  
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="50%"><a href="https://www.stacksatoshi.xyz" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/stack2.png"></a>
+    </td>
+
+  </tr>
+
+   <tr>
+    <td width="50%"><a href="https://www.stacksatoshi.xyz" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/stack3.png"></a>
+    </td>
+
+  </tr> 
+
+</table>
+<br/>
+  <h3> The first true AI-creation. This OG "cat" was created without direct human intervention:</h3>
+  
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="50%"><a href="https://www.aigicat.com/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/aigi1.png"></a>
+    </td>
+
+  </tr>
+
+   <tr>
+    <td width="50%"><a href="https://www.aigicat.com/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/aigi2.png"></a>
+    </td>
+
+  </tr> 
+
+</table>
+
+<br/>
+  <h3> And my love! Binaural Dog. From beats to blocks. The tone frequencies to your crypto success!</h3>
+  In the heart of the digital world, where innovation and chaos collide, a group of crypto enthusiasts stumbled upon a strange and powerful concept—binaural beats. For the uninitiated, binaural beats are a form of auditory illusion where two slightly different frequencies are played in each ear, creating the perception of a third tone. Known for their potential to influence mood, focus, and even health, these beats had been studied for years. But what if they could do more? What if they could shake up the world of crypto?In the heart of the digital world, where innovation and chaos collide, a group of crypto enthusiasts stumbled upon a strange and powerful concept—binaural beats. For the uninitiated, binaural beats are a form of auditory illusion where two slightly different frequencies are played in each ear, creating the perception of a third tone. Known for their potential to influence mood, focus, and even health, these beats had been studied for years. But what if they could do more? What if they could shake up the world of crypto?
+
+It was late one night when inspiration struck. In their cozy online lair, this group of tech-savvy crypto nerds were brainstorming the next viral meme token—a token that would catch the attention of the blockchain community, spark a new trend, and most importantly, go viral. But instead of just creating another dog-themed token, one member had a wild idea: What if the power of binaural beats could be tied directly to the unpredictable world of meme tokens? And so, BINUDOG was born. The first-ever “binaural dog token.” 
+  
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="50%"><a href="https://www.binauraldog.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/binu1.png"></a>
+    </td>
+
+  </tr>
+
+   <tr>
+    <td width="50%"><a href="https://www.binauraldog.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/binu2.png"></a>
+    </td>
+
+  </tr> 
+
 </table>
 
 <br/>
