@@ -6,7 +6,7 @@
 </h2>
 
   
-  <h3>Some of my previous cmc listed blockchain projects</h3>
+  <h3>Some of my previous cmc listed blockchain L1s projects</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a>
