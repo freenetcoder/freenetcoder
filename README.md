@@ -28,7 +28,7 @@
 </table>
 
 
-  <h3>You all know L2 chains like Polygon, Basechain, etc. But did you know that concept was created by me many years ago? I called it ASSETCHAINS</h3>
+  <h3>You all know L2 chains like Polygon, Basechain, etc. But did you know that this concept was created by me many years ago? I called it ASSETCHAINS</h3>
 <table width="100%" align="center" border="0px">
 
   <tr>https://github.com/freenetcoder/Manifesto/blob/master/Assetchains/running_guide.md</tr>
