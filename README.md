@@ -1,10 +1,9 @@
 
 # In code we trust <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="30px">
 <h2 align="left" style="vertical-align: middle;">
- <a href="https://wakatime.com/@freenetcoder"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
-</h2>
-Telegram: contact @freenetcoder
-  
+ <a href="https://wakatime.com/@freenetcoder"><img height="35" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> &nbsp; <a href="https://t.me/freenetcoder"><img height="35" padding-left=20 src="tg.png" alt=""/></a>
+
+</h2>  
   <h3>Some of my previous cmc listed blockchain L1s projects</h3>
 <table width="100%" align="center" border="0px">
   <tr>
