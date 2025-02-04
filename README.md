@@ -82,23 +82,7 @@
   </tr>
 
 </table>
-<br/>
-  <h3>An interactive science fiction meme-story. Gameplay is made up of a mix of tech and code-based challenges.:</h3>
-  
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="50%"><a href="https://www.stacksatoshi.xyz" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/stack2.png"></a>
-    </td>
 
-  </tr>
-
-   <tr>
-    <td width="50%"><a href="https://www.stacksatoshi.xyz" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/stack3.png"></a>
-    </td>
-
-  </tr> 
-
-</table>
 <br/>
   <h3> The first true AI-creation. This OG "cat" was created without direct human intervention:</h3>
   
