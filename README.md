@@ -7,13 +7,14 @@
   <h3>Some of my previous cmc listed blockchain L1s projects</h3>
 <table width="100%" align="center" border="0px">
   <tr>
-    <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a>
+    <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a> Grimm is a privacy-focused cryptocurrency with own blockchain that utilizes the MimbleWimble protocol to provide enhanced transaction privacy and scalability.
     </td>
-     <td width="30%"><a href="https://coinmarketcap.com/currencies/defis/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png"></a>
+     <td width="30%"><a href="https://coinmarketcap.com/currencies/defis/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png"></a> DEFIS is a Decentralized Financial System of scalable, privacy oriented offchain smart contracts and financial protocols build on top of cryptographic primitives. Custom L1 PoW Blockchain
     </td>
-     <td width="30%"><a href="https://coinmarketcap.com/currencies/zero-matic/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png"></a>
-    </td>
+     <td width="30%"><a href="https://coinmarketcap.com/currencies/zero-matic/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png"></a> Zeromatic protocol is an account-based private payment system based on improved zero-knowledge proof system Bulletproof and Σ protocol. Polygon-Grants Hackathon winner
+ </td>
   </tr>
+
 </table>
 
   <h3>I've invented a mining algorithm Equihash (150,5). No ASICs</h3>
