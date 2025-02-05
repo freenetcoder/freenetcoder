@@ -37,11 +37,11 @@
   <h3>My social experiments with Pumpfun</h3>
 <table width="100%" align="center" border="0px">
   <tr>
-    <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new1.png">
+    <td width="30%"><a href="https://mevx.io/solana/AovHtWFLuA2oiJgjhZNgqn34jqVeBS9Pzjm8CqBzkLaj"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new1.png"></a>
     </td>
-     <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new2.png">
+     <td width="30%"><a href="https://mevx.io/solana/5VqQ7BAvWMrNyMYBXeWVJMHKtzMC7HVtcg8eged4ZDTv"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new2.png"></a>
     </td>
-        <td width="30%"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new3.png">
+        <td width="30%"><a href="https://mevx.io/solana/2MPJoaXTNF6gY49idecGcjnYnLZqQtHN86xfotdVdNe2"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new3.png"></a>
     </td>
 
   </tr>
