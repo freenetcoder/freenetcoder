@@ -17,15 +17,6 @@
 
 </table>
 
-  <h3>I've invented a mining algorithm Equihash (150,5). No ASICs</h3>
-<table width="100%" align="center" border="0px">
-  <tr>
-   <a href="https://minerstat.com/algorithm/equihash(150,5)" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimmpow.png"></a>
-   
-  </tr>
-  <tr>https://github.com/freenetcoder/Manifesto/blob/master/GrimmPOW.md</tr>
-</table>
-
 
   <h3>You all know L2 chains like Polygon, Basechain, etc. But did you know that this concept was created by me many years ago? I called it ASSETCHAINS</h3>
 <table width="100%" align="center" border="0px">
