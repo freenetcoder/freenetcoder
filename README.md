@@ -4,7 +4,7 @@
  <a href="https://wakatime.com/@freenetcoder"><img height="35" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> &nbsp; <a href="https://t.me/freenetcoder"><img height="35" padding-left=20 src="tg.png" alt=""/></a>
 
 </h2>  
-  <h3>Some of my previous cmc listed blockchain tech projects</h3>
+  <h3>Some of my previous cmc listed blockchain projects</h3>
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="30%"><a href="https://coinmarketcap.com/currencies/grimm/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png"></a> Grimm is a privacy-focused cryptocurrency with own blockchain that utilizes the MimbleWimble protocol to provide enhanced transaction privacy and scalability.
@@ -17,42 +17,8 @@
 
 </table>
 
-
-  <h3>You all know L2 chains like Polygon, Basechain, etc. But did you know that this concept was created by me many years ago? I called it ASSETCHAINS</h3>
-<table width="100%" align="center" border="0px">
-
-  <tr>https://github.com/freenetcoder/Manifesto/blob/master/Assetchains/running_guide.md</tr>
-</table>
-
-
-  <h3>My social experiments with Pumpfun & Moonshot</h3>
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="30%"><a href="https://mevx.io/solana/AovHtWFLuA2oiJgjhZNgqn34jqVeBS9Pzjm8CqBzkLaj"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new1.png"></a>
-    </td>
-     <td width="30%"><a href="https://mevx.io/solana/5VqQ7BAvWMrNyMYBXeWVJMHKtzMC7HVtcg8eged4ZDTv"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new2.png"></a>
-    </td>
-        <td width="30%"><a href="https://mevx.io/solana/2MPJoaXTNF6gY49idecGcjnYnLZqQtHN86xfotdVdNe2"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/new3.png"></a>
-    </td>  </tr>
-
-
-  </tr>
-</table>
-
-
-
-<table width="100%" align="center" border="0px">
-  <tr>
-   <td><a href="https://mevx.io/solana/AV5oacokgHD5uvbQvjPQy2sFxCH8Gkkq4F3KXZHLNtrV"><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/aigiscr.png"></a>
-    </td>
-    <td><a href="https://mevx.io/solana/HUA9mPb6MkFcPng92c7X2zJTnUt9LX876L2unqm3nR1s" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/catnobi.png"></a>
-    </td>
-
-
-  </tr>
-</table>
 <br/>
-  <h3>Combining memes with AI to maximize earnings from Solana DeFi programs:</h3>
+  <h3>Mximize earnings from Solana DeFi programs using AI agents:</h3>
   <table width="100%" align="center" border="0px">
   <tr>
     <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai9.png"></a>
@@ -66,63 +32,15 @@
 
   </tr>
 </table>
-<br/>
-  <h3>Hacking pumpfun bots:</h3>
-  
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="50%"><a href="https://www.catch22club.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/hack1.png"></a>
-    </td>
 
-  </tr>
 
-</table>
-
-<br/>
-  <h3> The first true AI-creation. This OG "cat" was created without direct human intervention:</h3>
-  
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="50%"><a href="https://www.aigicat.com/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/aigi1.png"></a>
-    </td>
-
-  </tr>
-
-   <tr>
-    <td width="50%"><a href="https://www.aigicat.com/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/aigi2.png"></a>
-    </td>
-
-  </tr> 
-
-</table>
-
-<br/>
-  <h3> Binaural Dog. From beats to blocks. The tone frequencies to your crypto success!</h3>
-  In the heart of the digital world, where innovation and chaos collide, a group of crypto enthusiasts stumbled upon a strange and powerful concept—binaural beats. For the uninitiated, binaural beats are a form of auditory illusion where two slightly different frequencies are played in each ear, creating the perception of a third tone. Known for their potential to influence mood, focus, and even health, these beats had been studied for years. But what if they could do more? What if they could shake up the world of crypto?In the heart of the digital world, where innovation and chaos collide, a group of crypto enthusiasts stumbled upon a strange and powerful concept—binaural beats. For the uninitiated, binaural beats are a form of auditory illusion where two slightly different frequencies are played in each ear, creating the perception of a third tone. Known for their potential to influence mood, focus, and even health, these beats had been studied for years. But what if they could do more? What if they could shake up the world of crypto?
-
-It was late one night when inspiration struck. In their cozy online lair, this group of tech-savvy crypto nerds were brainstorming the next viral meme token—a token that would catch the attention of the blockchain community, spark a new trend, and most importantly, go viral. But instead of just creating another dog-themed token, one member had a wild idea: What if the power of binaural beats could be tied directly to the unpredictable world of meme tokens? And so, BINUDOG was born. The first-ever “binaural dog token.” 
-  
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="50%"><a href="https://www.binauraldog.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/binu1.png"></a>
-    </td>
-
-  </tr>
-
-   <tr>
-    <td width="50%"><a href="https://www.binauraldog.org/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/binu2.png"></a>
-    </td>
-
-  </tr> 
-
-</table>
 
 <br/>
 <h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%">
+    <td width="100%">
         <a href="https://github.com/freenetcoder">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" />
@@ -131,15 +49,7 @@ It was late one night when inspiration struck. In their cozy online lair, this g
           </picture>
         </a>
     </td>
-    <td width="50%">
-        <a href="https://github.com/freenetcoder">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=freenetcoder&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=freenetcoder&hide_border=true" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=freenetcoder&hide_border=true&theme=radical" alt="Streak Stats" />
-          </picture>
-        </a>
-    </td>
+
   </tr>
 </table>
 
