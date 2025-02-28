@@ -11,7 +11,7 @@
     </td>
      <td width="30%"><a href="https://coinmarketcap.com/currencies/defis/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png"></a> DEFIS is a Decentralized Financial System of scalable, privacy oriented offchain smart contracts and financial protocols build on top of cryptographic primitives. Custom L1 PoW Blockchain
     </td>
-     <td width="30%"><a href="https://coinmarketcap.com/currencies/zero-matic/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png"></a> Zeromatic protocol is an account-based private payment system based on improved zero-knowledge proof system Bulletproof and Σ protocol. Polygon-Grants Hackathon winner
+     <td width="30%"><a href="https://dorahacks.io/buidl/1474/" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png"></a> Zeromatic protocol is an account-based private payment system based on improved zero-knowledge proof system Bulletproof and Σ protocol. Polygon-Grants Hackathon winner
  </td>
   </tr>
 
