@@ -17,42 +17,6 @@
 
 </table>
 
-<br/>
-  <h3>Mximize earnings from Solana DeFi programs using AI agents:</h3>
-  <table width="100%" align="center" border="0px">
-  <tr>
-    <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai9.png"></a>
-    </td>
-
-  </tr>
-<br/><br/>
-  <tr>
-    <td width="50%"><a href="https://skai9.net" target=_blank><img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/skai93.png"></a>
-    </td>
-
-  </tr>
-</table>
-
-
-
-<br/>
-<h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="100%">
-        <a href="https://github.com/freenetcoder">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>
-
-  </tr>
-</table>
-
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
 
 <table width="100%" align="center">
@@ -77,6 +41,24 @@
 
   </a>
 </div>
+
+<br/>
+<h3 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h3>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="100%">
+        <a href="https://github.com/freenetcoder">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freenetcoder&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>
+
+  </tr>
+</table>
 
 <hr>
 
