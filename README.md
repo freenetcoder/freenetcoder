@@ -32,7 +32,9 @@ You're not just watching the Supersonic video - you're streaming it directly fro
 
 Supersonic meme music video redefining digital media and offering a glimpse of the future.
 
-Something big is coming, including innovative streaming NFT's, LFG? Follow [supersonicfusion.org](https://supersonicfusion.org)
+Something big is coming, including innovative streaming NFT's, LFG? 
+
+Follow [supersonicfusion.org](https://supersonicfusion.org)
 
 P.s. Longe live to super.exchange. These guys will save Solana trenches
 
