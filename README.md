@@ -28,11 +28,13 @@
 
 Supersonic is the first meme music video hosted entirely on the blockchain. The project began with Rob Frogley, who composed a catchy song that inspired Ben Evans to create a simple, visually appealing CSS-based video to accompany it. As developer behind the Supersonic project, I'm modernized the code and deployed it on the Solana blockchain. By storing it on the blockchain, Supersonic became decentralized, permanent, and immune to traditional hosting restrictions and censorship.
 
-When you visit the Supersonic website, you're not just watching a music video - you're streaming it directly from the blockchain. This groundbreaking approach demonstrates how blockchain technology is changing the way we share and preserve digital content.
+You're not just watching the Supersonic video - you're streaming it directly from the blockchain. This groundbreaking approach demonstrates how blockchain technology is changing the way we share and preserve digital content.
 
-Watch Supersonic meme music video, that's redefining digital media and offering a glimpse of the future.
+Supersonic meme music video redefining digital media and offering a glimpse of the future.
 
-[supersonicfusion.org](https://supersonicfusion.org)
+Something big is coming, including innovative streaming NFT's, LFG? Follow [supersonicfusion.org](https://supersonicfusion.org)
+
+P.s. Longe live to super.exchange. These guys will save Solana trenches
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
 
