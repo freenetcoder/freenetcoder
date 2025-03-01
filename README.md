@@ -32,7 +32,7 @@ When you visit the Supersonic website, you're not just watching a music video - 
 
 Watch Supersonic meme music video, that's redefining digital media and offering a glimpse of the future.
 
-[supersonicfusion.xyz](https://supersonicfusion.xyz)
+[supersonicfusion.org](https://supersonicfusion.xyz)
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
 
