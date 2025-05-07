@@ -16,8 +16,86 @@
   </tr>
 
 </table>
+<br/>
+<div align="center">
+
+# ![Arcadia Network](logo.png) ARCADIA NETWORK ![Arcadia Network](logo.png)
+
+> _The Last Bastion of True Financial Freedom_
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/arcadiadotpw?style=social)](https://x.com/arcadiadotpw)
+<br/>[arcadia.pw](https://arcadia.pw)
+
+</div>
+
+## 🏴‍☠️ Welcome to the High Seas of Crypto
+
+Arcadia Network is a Layer 2 Proof-of-Work blockchain, combining the accessibility of modern web technologies with the security and decentralization principles of traditional proof-of-work systems.
+
+![Trading Port](1.png)
+
+![Trading Port](2.png)
 
 
+
+## ⚔️ Features
+
+### 🏦 Trading Port
+- Decentralized token trading platform
+- Automated Market Maker with bonding curve
+- Fair launch mechanism for new tokens
+- Real-time price charts and market data
+
+![Trading Port](4.png)
+
+![Trading Port](5.png)
+
+
+### 🎲 Pirate's Dice
+- Provably fair gambling system
+- Instant payouts
+- Multiple betting options
+- Transparent house edge
+
+![Trading Port](7.png)
+
+### 🏆 Treasure Vault
+- High-yield staking platform
+- Multiple lock periods:
+  - 1 Month Voyage (100% APY)
+  - 3 Months Expedition (300% APY)
+  - Year-long Adventure (1000% APY)
+- Automated reward distribution
+
+![Trading Port](8.png)
+
+## ⛏️ Mining
+
+Mine ARCA tokens directly from your browser:
+- No special hardware required
+- Mobile-friendly mining algorithm
+- Fair distribution system
+- Real-time network statistics
+
+![Trading Port](3.png)
+
+## 💰 Tokenomics
+
+| Parameter | Value |
+|-----------|-------|
+| Max Supply | 1B ARCA |
+| Block Reward | 50 ARCA |
+| Block Time | 3 seconds |
+| Distribution | 100% PoW |
+
+
+---
+
+<div align="center">
+
+### ☠️ Set Sail for Financial Freedom ☠️
+
+</div>
 
 
 
