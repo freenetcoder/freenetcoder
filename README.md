@@ -85,7 +85,7 @@ Mine ARCA tokens directly from your browser:
 |-----------|-------|
 | Max Supply | 1B ARCA |
 | Block Reward | 50 ARCA |
-| Block Time | 3 seconds |
+| Block Time | 1 sec |
 | Distribution | 100% PoW |
 
 
