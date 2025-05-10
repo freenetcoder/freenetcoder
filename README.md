@@ -32,9 +32,9 @@
 
 Arcadia Network is a Layer 2 Proof-of-Work blockchain, combining the accessibility of modern web technologies with the security and decentralization principles of traditional proof-of-work systems.
 
-![Trading Port](1.png)
+![Trading Port](11.png)
 
-![Trading Port](2.png)
+![Trading Port](12.png)
 
 
 
