@@ -46,9 +46,9 @@ Arcadia Network is a Layer 2 Proof-of-Work blockchain, combining the accessibili
 - Fair launch mechanism for new tokens
 - Real-time price charts and market data
 
-![Trading Port](4.png)
+![Trading Port](111.png)
 
-![Trading Port](5.png)
+![Trading Port](222.png)
 
 
 ### 🎲 Pirate's Dice
