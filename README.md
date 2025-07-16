@@ -18,17 +18,6 @@
 </table>
 <br/>
 
- <a href="https://nukedworld.com">NUKEDWORLD</a>
-
-"Better to nuke pixels than people."
-The only World War that pumps your portfolio while you dominate the digital battlefield
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/nuked2.png">
-<img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/nuked1.png">
-
-
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
 
 <table width="100%" align="center">
