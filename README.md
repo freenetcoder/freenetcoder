@@ -41,19 +41,6 @@
 
 **🏆 Tournament System** - Competitive events with SOL prizes
 
-### 🛠️ **Tech Stack**
-**Frontend**: React + TypeScript + Tailwind CSS
-
-**Blockchain**: Solana (SPL Tokens, NFTs, Web3.js)
-
-**Backend**: Supabase (PostgreSQL, Real-time subscriptions)
-
-**Maps**: Leaflet.js with custom battle animations
-
-**State**: React Query + Custom hooks
-
-
-
   <a href="https://nukedworld.com" target="_blank">
     <img src="https://img.shields.io/badge/🎮_PLAY_NOW-orange?style=for-the-badge&logoColor=white" alt="Play Nuked World"/>
   </a>
