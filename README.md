@@ -24,8 +24,9 @@
 
 **🔥 Better to nuke pixels than people** 
 
-*Revolutionary blockchain strategy game where commanders battle for global domination while burning $NUKED tokens*
+*Revolutionary blockchain strategy game where commanders battle for global domination*
 
+<img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/1111.png" />
 
 ### 🎯 **Game Features**
 **⚔️ Real-time PvP Combat** - Turn-based tactical battles with NFT bonuses
@@ -61,7 +62,9 @@
   </a>
 </div>
 
----
+<img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/3333.png" />
+
+<img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/2222.png" />
 
 ## 🏆 **BLOCKCHAIN PORTFOLIO**
 
