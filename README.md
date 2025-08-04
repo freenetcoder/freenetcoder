@@ -3,7 +3,7 @@
 # Freenetcoder | OG Blockchain Architect <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Blockchain+Pioneer+%26+Game+Developer;Building+the+Future+of+Web3+Gaming;Nuked+World+Creator;Privacy+%26+DeFi+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Ethereum+Classic+Contributor;GRIMM+Blockchain+Dev;DEFIS+Founder;Polygon+Hackathon+Winner;Privacy+%26+DeFi+Innovator" alt="Typing SVG" />
 </p>
 
 <h2 align="center" style="vertical-align: middle;">
