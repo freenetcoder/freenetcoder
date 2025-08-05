@@ -38,8 +38,8 @@
       <p><strong>Decentralized Financial System</strong></p>
       <p>Scalable L1 PoW blockchain with privacy-oriented offchain smart contracts and advanced financial protocols.</p>
       <div>
-        <img src="https://img.shields.io/badge/CMC-Listed-00D4AA?style=flat-square" alt="CMC Listed"/>
-        <img src="https://img.shields.io/badge/DeFi-Protocol-E74C3C?style=flat-square" alt="DeFi"/>
+         <a href="https://coinmarketcap.com/currencies/defis/" target="_blank"> <img src="https://img.shields.io/badge/CMC-Link-00D4AA?style=flat-square" alt="CMC Listed"/></a>
+        <a href="https://github.com/freenetcoder/defis"target="_blank"> <img src="https://img.shields.io/badge/Source-Code-E74C3C?style=flat-square" alt="DeFi"/></a>
       </div>
     </td>
     <td width="33%" align="center">
@@ -50,8 +50,8 @@
       <p><strong>Zero-Knowledge Payment System</strong></p>
       <p>Account-based private payments using improved Bulletproof and Σ protocol. Polygon Grants Hackathon Winner.</p>
       <div>
-        <img src="https://img.shields.io/badge/Hackathon-Winner-F39C12?style=flat-square" alt="Winner"/>
-        <img src="https://img.shields.io/badge/ZK-Proofs-8E44AD?style=flat-square" alt="ZK"/>
+        <a href="https://dorahacks.io/buidl/1474/" target="_blank"> <img src="https://img.shields.io/badge/Hackathon-Winner-F39C12?style=flat-square" alt="Winner"/></a>
+        <a href="https://dorahacks.io/buidl/1474/" target="_blank"> <img src="https://img.shields.io/badge/ZK-Proofs-8E44AD?style=flat-square" alt="ZK"/></a>
       </div>
     </td>
   </tr>
