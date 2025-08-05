@@ -3,7 +3,7 @@
 # Freenetcoder | OG Blockchain Architect <img src="https://i.ibb.co/8dbNJ60/200w.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Ethereum+Classic+Contributor;GRIMM+Blockchain+Dev;DEFIS+Founder;Polygon+Hackathon+Winner;Privacy+%26+DeFi+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Ethereum+Classic+Contributor;GRIMM+Blockchain+Dev;DEFIS+$XGM+Founder;Polygon+Hackathon+Winner;Privacy+%26+DeFi+Innovator" alt="Typing SVG" />
 </p>
 
 <h2 align="center" style="vertical-align: middle;">
@@ -12,6 +12,50 @@
   <a href="https://t.me/freenetcoder"><img height="35" src="tg.png" alt="Telegram"/></a>
 </h2>
 
+### 🏆 **MY BLOCKCHAIN PROJECTS**
+
+
+
+<table width="100%" align="center" border="0px">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://coinmarketcap.com/currencies/grimm/" target="_blank">
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png" width="120"/>
+      </a>
+      <h4>🔒 GRIMM</h4>
+      <p><strong>Privacy-First Blockchain</strong></p>
+      <p>MimbleWimble protocol implementation with enhanced transaction privacy and scalability. Custom consensus mechanism.</p>
+      <div>
+        <a href="https://coinmarketcap.com/currencies/grimm/" target="_blank"><img src="https://img.shields.io/badge/CMC-Link-00D4AA?style=flat-square" alt="CMC Listed"/></a>
+        <a href="https://github.com/freenetcoder/grimm" target="_blank"><img src="https://img.shields.io/badge/Source-Code-9B59B6?style=flat-square" alt="Privacy"/></a>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://coinmarketcap.com/currencies/defis/" target="_blank">
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png" width="120"/>
+      </a>
+      <h4>⚡ DEFIS</h4>
+      <p><strong>Decentralized Financial System</strong></p>
+      <p>Scalable L1 PoW blockchain with privacy-oriented offchain smart contracts and advanced financial protocols.</p>
+      <div>
+        <img src="https://img.shields.io/badge/CMC-Listed-00D4AA?style=flat-square" alt="CMC Listed"/>
+        <img src="https://img.shields.io/badge/DeFi-Protocol-E74C3C?style=flat-square" alt="DeFi"/>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://dorahacks.io/buidl/1474/" target="_blank">
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png" width="120"/>
+      </a>
+      <h4>🛡️ ZEROMATIC</h4>
+      <p><strong>Zero-Knowledge Payment System</strong></p>
+      <p>Account-based private payments using improved Bulletproof and Σ protocol. Polygon Grants Hackathon Winner.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Hackathon-Winner-F39C12?style=flat-square" alt="Winner"/>
+        <img src="https://img.shields.io/badge/ZK-Proofs-8E44AD?style=flat-square" alt="ZK"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ## 🎮 **LATEST PROJECT: NUKED WORLD** 
@@ -53,52 +97,6 @@
 <img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/3333.png" />
 
 <img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/2222.png" />
-
-## 🏆 **BLOCKCHAIN PORTFOLIO**
-
-<h3 align="center">🚀 CMC Listed Projects & Innovations</h3>
-
-<table width="100%" align="center" border="0px">
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://coinmarketcap.com/currencies/grimm/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png" width="120"/>
-      </a>
-      <h4>🔒 GRIMM</h4>
-      <p><strong>Privacy-First Blockchain</strong></p>
-      <p>MimbleWimble protocol implementation with enhanced transaction privacy and scalability. Custom consensus mechanism.</p>
-      <div>
-        <img src="https://img.shields.io/badge/CMC-Listed-00D4AA?style=flat-square" alt="CMC Listed"/>
-        <img src="https://img.shields.io/badge/Privacy-Focused-9B59B6?style=flat-square" alt="Privacy"/>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://coinmarketcap.com/currencies/defis/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png" width="120"/>
-      </a>
-      <h4>⚡ DEFIS</h4>
-      <p><strong>Decentralized Financial System</strong></p>
-      <p>Scalable L1 PoW blockchain with privacy-oriented offchain smart contracts and advanced financial protocols.</p>
-      <div>
-        <img src="https://img.shields.io/badge/CMC-Listed-00D4AA?style=flat-square" alt="CMC Listed"/>
-        <img src="https://img.shields.io/badge/DeFi-Protocol-E74C3C?style=flat-square" alt="DeFi"/>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://dorahacks.io/buidl/1474/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png" width="120"/>
-      </a>
-      <h4>🛡️ ZEROMATIC</h4>
-      <p><strong>Zero-Knowledge Payment System</strong></p>
-      <p>Account-based private payments using improved Bulletproof and Σ protocol. Polygon Grants Hackathon Winner.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Hackathon-Winner-F39C12?style=flat-square" alt="Winner"/>
-        <img src="https://img.shields.io/badge/ZK-Proofs-8E44AD?style=flat-square" alt="ZK"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 💻 **TECH MASTERY**
