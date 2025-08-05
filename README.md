@@ -22,7 +22,7 @@
       </a>
       <h4>🔒 GRIMM</h4>
       <p><strong>Privacy-First Blockchain</strong></p>
-      <p>MimbleWimble protocol implementation with enhanced transaction privacy and scalability. Custom consensus mechanism.</p>
+      <p>MimbleWimble protocol with enhanced transaction privacy and scalability. Custom consensus mechanism.</p>
       <div>
         <a href="https://coinmarketcap.com/currencies/grimm/" target="_blank"><img src="https://img.shields.io/badge/CMC-Link-00D4AA?style=flat-square" alt="CMC Listed"/></a>
         <a href="https://github.com/freenetcoder/grimm" target="_blank"><img src="https://img.shields.io/badge/Source-Code-9B59B6?style=flat-square" alt="Privacy"/></a>
