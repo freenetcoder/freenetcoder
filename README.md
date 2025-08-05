@@ -20,7 +20,7 @@
   <tr>
     <td width="33%" align="center">
       <a href="https://coinmarketcap.com/currencies/grimm/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/grimm.png" width="180"/>
       </a>
       <h4>🔒 GRIMM</h4>
       <p><strong>Privacy-First Blockchain</strong></p>
@@ -32,7 +32,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://coinmarketcap.com/currencies/defis/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/defis.png" width="180"/>
       </a>
       <h4>⚡ DEFIS</h4>
       <p><strong>Decentralized Financial System</strong></p>
@@ -44,7 +44,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://dorahacks.io/buidl/1474/" target="_blank">
-        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png" width="120"/>
+        <img src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/main/zeromatic.png" width="180"/>
       </a>
       <h4>🛡️ ZEROMATIC</h4>
       <p><strong>Zero-Knowledge Payment System</strong></p>
