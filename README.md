@@ -5,11 +5,11 @@
 </p>
 
 <h2 align="center" style="vertical-align: middle;">
-  <a href="https://wakatime.com/@freenetcoder"><img height="35" src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt="Coding Time"/></a> 
-  &nbsp;&nbsp;
-  <a href="https://t.me/freenetcoder"><img height="35" src="tg.png" alt="Telegram"/></a>
-</h2>
+  <a href="https://wakatime.com/@freenetcoder"><img height="50" src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt="Coding Time"/></a> 
 
+   <a href="https://t.me/freenetcoder">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a></h2>
 ### 🏆 **MY BLOCKCHAIN PROJECTS**
 
 
