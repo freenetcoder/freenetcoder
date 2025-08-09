@@ -228,7 +228,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🏗️_Blockchains_Built-3-FF6B35?style=for-the-badge" alt="Blockchains"/>
+        <img src="https://img.shields.io/badge/🏗️_Blockchains_Built-53-FF6B35?style=for-the-badge" alt="Blockchains"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💰_CMC_Listings-2-00D4AA?style=for-the-badge" alt="CMC Listings"/>
