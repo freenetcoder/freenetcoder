@@ -57,7 +57,7 @@
 </table>
 
 
-## 🎮 **LATEST PROJECT: NUKED WORLD** 
+## 🎮 **LATEST PROJECT: NUKED WORLD ON SOLANA** 
 
 <div align="center">
   <a href="https://nukedworld.com" target="_blank">
