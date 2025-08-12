@@ -13,8 +13,6 @@
     
 ### 🏆 **PAST BLOCKCHAIN PROJECTS**
 
-
-
 <table width="100%" align="center" border="0px">
   <tr>
     <td width="33%" align="center">
@@ -56,6 +54,9 @@
   </tr>
 </table>
 
+---
+### 🏆 **ACTIVE BLOCKCHAIN PROJECTS**
+---
 
 ## 🎮 **NUKED WORLD ON SOLANA** 
 
@@ -90,7 +91,7 @@
   <a href="https://x.com/nukedgame" target="_blank">
     <img src="https://img.shields.io/badge/🐦_FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X"/>
   </a>
-</div>
+
 
 ---
 <img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/3333.png" />
@@ -99,7 +100,9 @@
 
 ---
 
-## Gargantua Protocol: Zero-Knowledge Anonymous Payments on Solana
+## GARGANTUA PROTOCOL
+
+### Zero-Knowledge Anonymous Payments on Solana
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/freenetcoder/gargantua/refs/heads/main/gg.png" alt="Gargantua Protocol" width="600"/>
@@ -107,12 +110,14 @@
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Solana](https://img.shields.io/badge/Solana-Powered-green.svg)](https://solana.com)
   [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org)
- [![Open Source](https://img.shields.io/badge/Source-Code-E74C3C?style=flat-square)](https://github.com/freenetcoder/gargantua)
 </div>
+
+[![Open Source](https://img.shields.io/badge/Source-Code-E74C3C?style=flat-square)](https://github.com/freenetcoder/gargantua)
 
 ## 🌌 Overview
 
 Gargantua Protocol is a cutting-edge **zero-knowledge anonymous payment system** built on Solana, providing **complete transaction privacy** without compromising on performance or decentralization. Named after the massive black hole in Interstellar, Gargantua bends the fabric of blockchain transparency to create a privacy-preserving financial universe.
+</div>
 
 ### 🚀 Key Features
 
@@ -122,6 +127,7 @@ Gargantua Protocol is a cutting-edge **zero-knowledge anonymous payment system**
 - **🔗 SPL Token Compatible**: Works with any SPL token
 - **📊 Scalable**: Optimized for high-throughput applications
 - **🌐 Decentralized**: No central authority or coordinator required
+
 
 ---
 
