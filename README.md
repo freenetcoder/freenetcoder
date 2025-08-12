@@ -114,19 +114,25 @@
 
 [![Open Source](https://img.shields.io/badge/Source-Code-E74C3C?style=flat-square)](https://github.com/freenetcoder/gargantua)
 
-## 🌌 Overview
+## 🌌 Overview </div>
 
-Gargantua Protocol is a cutting-edge **zero-knowledge anonymous payment system** built on Solana, providing **complete transaction privacy** without compromising on performance or decentralization. Named after the massive black hole in Interstellar, Gargantua bends the fabric of blockchain transparency to create a privacy-preserving financial universe.
-</div>
+Gargantua is a zero-knowledge anonymous payment protocol built on Solana. Its main goal is to provide complete transaction privacy: hiding the sender, receiver and transaction amounts, while maintaining the high speed, low fees and decentralization.
+Key Highlights:
 
-### 🚀 Key Features
+    Complete Anonymity: All transaction details (sender, receiver, amount) are hidden using advanced cryptographic techniques.
+    Zero-Knowledge Proofs: Utilizes technologies like Pedersen commitments, Bulletproofs (for range proofs), and Schnorr signatures to enable private transactions without trusted setup.
+    SPL Token Compatible: Works with any SPL token on Solana.
+    High Performance: Sub-second transaction finality and optimized for high throughput, with minimal on-chain storage and low transaction costs.
+    No Central Authority: Fully decentralized—no trusted third parties or coordinators.
 
-- **🔒 Complete Anonymity**: Hide sender, receiver, and transaction amounts
-- **⚡ Solana Speed**: Sub-second transaction finality with low fees
-- **🛡️ No Trusted Setup**: Transparent, trustless cryptographic foundation
-- **🔗 SPL Token Compatible**: Works with any SPL token
-- **📊 Scalable**: Optimized for high-throughput applications
-- **🌐 Decentralized**: No central authority or coordinator required
+How It Works:
+
+    Account Registration: Users create unlinkable anonymous accounts using Schnorr signatures.
+    Private Deposits: Users deposit tokens into an anonymous pool; amounts are hidden using Pedersen commitments.
+    Anonymous Transfers: Tokens can be transferred privately between users via zero-knowledge proofs.
+    Private Withdrawals: Users can withdraw tokens after proving ownership and balance, all while maintaining privacy.
+
+Gargantua is designed for applications needing privacy - DeFi, enterprise or individual use cases, where transaction data confidentiality is critical.
 
 
 ---
