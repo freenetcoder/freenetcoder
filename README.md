@@ -57,7 +57,7 @@
 </table>
 
 
-## 🎮 **LATEST PROJECT: NUKED WORLD ON SOLANA** 
+## 🎮 **NUKED WORLD ON SOLANA** 
 
 <div align="center">
   <a href="https://nukedworld.com" target="_blank">
@@ -96,6 +96,33 @@
 <img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/3333.png" />
 
 <img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/2222.png" />
+
+---
+
+## Gargantua Protocol: Zero-Knowledge Anonymous Payments on Solana
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/freenetcoder/gargantua/refs/heads/main/gg.png" alt="Gargantua Protocol" width="600"/>
+  
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![Solana](https://img.shields.io/badge/Solana-Powered-green.svg)](https://solana.com)
+  [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org)
+ [![Open Source](https://img.shields.io/badge/Source-Code-E74C3C?style=flat-square)](https://github.com/freenetcoder/gargantua)
+</div>
+
+## 🌌 Overview
+
+Gargantua Protocol is a cutting-edge **zero-knowledge anonymous payment system** built on Solana, providing **complete transaction privacy** without compromising on performance or decentralization. Named after the massive black hole in Interstellar, Gargantua bends the fabric of blockchain transparency to create a privacy-preserving financial universe.
+
+### 🚀 Key Features
+
+- **🔒 Complete Anonymity**: Hide sender, receiver, and transaction amounts
+- **⚡ Solana Speed**: Sub-second transaction finality with low fees
+- **🛡️ No Trusted Setup**: Transparent, trustless cryptographic foundation
+- **🔗 SPL Token Compatible**: Works with any SPL token
+- **📊 Scalable**: Optimized for high-throughput applications
+- **🌐 Decentralized**: No central authority or coordinator required
+
 ---
 
 ## 💻 **TECH MASTERY**
