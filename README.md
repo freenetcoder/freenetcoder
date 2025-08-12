@@ -310,7 +310,7 @@ Gargantua Protocol is a cutting-edge **zero-knowledge anonymous payment system**
     <a href="https://t.me/freenetcoder">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://x.com/nukedgame">
+    <a href="https://x.com/freenetcoder">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
     </a>
     <a href="https://github.com/freenetcoder">
