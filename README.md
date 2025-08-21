@@ -70,14 +70,12 @@
 
 *Revolutionary blockchain strategy game where commanders battle for global domination*
 
-<img align="center" src="https://raw.githubusercontent.com/freenetcoder/freenetcoder/refs/heads/main/1111.png" />
-
 ### 🎯 **Game Features**
 **⚔️ Real-time PvP Combat** - Turn-based tactical battles with NFT bonuses
 
 **🌍 World War 3 Mode** - Massive multiplayer warfare on real world map
 
-**🚀 Deflationary Tokenomics** - Every purchase burns $NUKED permanently
+**🚀 Deflationary Tokenomics** - Every purchase burns $NULL permanently
 
 **👑 Commander Ranks** - 10-tier progression system with combat bonuses
 
